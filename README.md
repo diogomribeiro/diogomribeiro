@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋 !
+- 🔭 I'm a scientific researcher working on some exciting bioinformatics projects
+- 📫 You can reach me to know more about my projects or collaborate via diogo.ribeiro@unil.ch
 
 <!--
 **diogomribeiro/diogomribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
